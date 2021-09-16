@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my devlog!](https://blog.paulkim.me)
 
-- 🌱 I’m currently learning **Spring Framework, Windows Server.**
+- 🌱 I’m currently learning **Spring Framework, Windows Server.** Check out my repos at [@paul-is-studying](https://github.com/paul-is-studying)
 
 - 👯 I’m looking to collaborate on **anything besides game development!**
 
