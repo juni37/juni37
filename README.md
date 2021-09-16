@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **anything besides game development!**
 
-- 👨‍💻 All of my projects are available at [my GitHub!](https://github.com/juni37)
-
 - 📝 I regularly write articles on [https://blog.paulkim.me](https://blog.paulkim.me)
 
 - 💬 Ask me about **anything about my project!**
