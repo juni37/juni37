@@ -16,10 +16,6 @@
 
 - ⚡ Fun fact **I run a small non-profit organization!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yujunkim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yujunkim_" height="30" width="40" /></a>
